@@ -7,3 +7,9 @@ a set of kick-starter scripts for my environment.
 ```
 wget -O - https://raw.githubusercontent.com/napman/server_starters/master/ubuntu.bash | bash
 ```
+
+with GUI;
+
+```
+wget -O - https://raw.githubusercontent.com/napman/server_starters/master/ubuntu-gui.bash | bash
+```

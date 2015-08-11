@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # settings
-packages=( emacs24-nox htop byobu gcc make python lm-sensors nkf ssh ntp git curl ipython python-pip )
+packages=( sublime-text lybniz meld )
 
 # install packages
 sudo apt-get update
