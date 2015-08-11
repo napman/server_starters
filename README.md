@@ -1,4 +1,6 @@
-# ubuntu_starter
+# Server Starters 
+
+a set of kick-starter scripts for my environment. 
 
 ## usage (Mint / Ubuntu)
 
