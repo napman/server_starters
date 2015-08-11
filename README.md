@@ -1,7 +1,7 @@
 # ubuntu_starter
 
-## usage (Ubuntu)
+## usage (Mint / Ubuntu)
 
 ```
-wget -O - https://raw.githubusercontent.com/napman/server_starters/master/ubuntu.bash | sh
+wget -O - https://raw.githubusercontent.com/napman/server_starters/master/ubuntu.bash | bash
 ```
