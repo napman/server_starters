@@ -8,4 +8,5 @@ sudo apt-get update
 sudo apt-get install -y --force-yes $packages
 
 # make initial template
-sudo lxc-create -t ubuntu -n init_template
+sudo lxc-create -t download -n init_template # select ubuntu trusty amd64
+
