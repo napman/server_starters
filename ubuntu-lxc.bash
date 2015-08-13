@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # settings
-packages="lxc lxc-templates deboostrap"
+packages="lxc lxc-templates debootstrap"
 
 # install packages
 sudo apt-get update
