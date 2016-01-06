@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # settings
-packages="emacs24-nox unzip htop byobu gcc make python lm-sensors nkf ssh ntp git curl python-pip ntfs-3g whois sshfs"
+packages="unzip htop byobu gcc make python lm-sensors nkf ssh ntp git curl python-pip ntfs-3g whois sshfs"
 
 # install packages
 sudo apt-get update
